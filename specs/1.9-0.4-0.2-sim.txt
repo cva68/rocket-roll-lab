@@ -1,0 +1,6 @@
+Results for Kp=1.9, Ki=0.4, Kd=0.2:
+Val		Exp		Sim
+ζ		-		0.8
+Mp%		0.0 %		6.8 %
+e_ss		0.0 deg		2.0 deg
+t_r		0.00 s		0.18 s
